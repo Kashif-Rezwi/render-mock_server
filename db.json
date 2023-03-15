@@ -9,6 +9,7 @@
     { "id": 1, "title": "shirt" },
     { "id": 2, "title": "t-shirt" },
     { "id": 3, "title": "shorts" },
-    { "id": 4, "title": "paijama" }
+    { "id": 4, "title": "paijama" },
+    { "id": 5, "title": "boxer" }
   ]
 }
