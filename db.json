@@ -1,22 +1,45 @@
 {
-  "Products": [
-    { "id": 1, "title": "shirt" },
-    { "id": 2, "title": "t-shirt" },
-    { "id": 3, "title": "shorts" },
-    { "id": 4, "title": "paijama" }
-  ],
-  "Items": [
-    { "id": 1, "title": "shirt" },
-    { "id": 2, "title": "t-shirt" },
-    { "id": 3, "title": "shorts" },
-    { "id": 4, "title": "paijama" },
-    { "id": 5, "title": "boxer" }
-  ],
-  "Cart": [
-    { "id": 1, "title": "shirt" },
-    { "id": 2, "title": "t-shirt" },
-    { "id": 3, "title": "shorts" },
-    { "id": 4, "title": "paijama" },
-    { "id": 5, "title": "boxer" }
+  "Users": [],
+  "Hotels": [
+    { "id": 1,
+       "category": "Family",
+       "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+       "type_of_room": "AC",
+       "bed_type": "Double",
+		   "no_of_persons":"2",
+		   "capacity":"3".
+		   "cost":"4000",
+		   "booked":false,
+    },
+    { "id": 2,
+       "category": "Couple",
+       "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+       "type_of_room": "AC",
+       "bed_type": "Single",
+		   "no_of_persons":"2",
+		   "capacity":"2".
+		   "cost":"8000",
+		   "booked":false,
+    },
+    { "id": 3,
+       "category": "Couple",
+       "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+       "type_of_room": "AC",
+       "bed_type": "Single",
+		   "no_of_persons":"2",
+		   "capacity":"2".
+		   "cost":"8000",
+		   "booked":false,
+    },
+    { "id": 4,
+       "category": "Family",
+       "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+       "type_of_room": "AC",
+       "bed_type": "Double",
+		   "no_of_persons":"2",
+		   "capacity":"3".
+		   "cost":"4000",
+		   "booked":false,
+    }
   ]
 }
