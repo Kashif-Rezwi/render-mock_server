@@ -14,7 +14,7 @@
     },
     {
       "id": 2,
-      "category": "Couple",
+      "category": "Deluxe",
       "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
       "type_of_room": "AC",
       "bed_type": "Single",
@@ -25,7 +25,7 @@
     },
     {
       "id": 3,
-      "category": "Couple",
+      "category": "Suite",
       "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
       "type_of_room": "AC",
       "bed_type": "Single",
